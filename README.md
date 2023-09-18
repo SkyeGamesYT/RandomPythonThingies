@@ -1,2 +1,2 @@
-# RandomPythonThingies
-Random Python Snippets!
+# Python Snippets:
+- Python Multichoice menu
