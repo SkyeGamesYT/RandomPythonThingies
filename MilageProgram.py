@@ -35,7 +35,7 @@ print("\n")
 costPerGallon = float(input("What is the cost for a gallon of gas? \n"))
 print("\n\n\n")
 wait(0.3)
-print(Fore.RED"Calculating...")
+print("{Fore.RED}Calculating...{Style.RESET_ALL}")
 wait(0.5)
 #Math
 
