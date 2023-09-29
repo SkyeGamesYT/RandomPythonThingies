@@ -3,4 +3,4 @@
 - Login Checker
 - Ghost Typer
 
-![Deploy To Replit](https://replit.com/new/github/SkyeGamesYT/RandomPythonThingies)
+[![Deploy To Replit](https://replit.com/new/github/SkyeGamesYT/RandomPythonThingies)]
