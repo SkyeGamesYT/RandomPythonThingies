@@ -3,4 +3,4 @@
 - Login Checker
 - Ghost Typer
 
-https://replit.com/new/github/GHUSERNAME/GHREPONAME
+https://replit.com/new/github/SkyeGamesYT/RandomPythonThingies
