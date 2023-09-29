@@ -3,4 +3,4 @@
 - Login Checker
 - Ghost Typer
 
-[![Deploy Mulitchoice Menu](https://replit.com/new/github/SkyeGamesYT/RandomPythonThingies/Multichoice)]
+[![Deploy GhostTyper](https://github.com/SkyeGamesYT/RandomPythonThingies/blob/main/GhostTyper.py)]
